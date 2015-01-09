@@ -1,0 +1,18 @@
+D:\Bristy\24-Dec-2014Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Bristy\24-Dec-2014Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Bristy\24-Dec-2014Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Bristy\24-Dec-2014Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+D:\Bristy\24-Dec-2014Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+D:\Bristy\24-Dec-2014Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\Bristy\24-Dec-2014Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+D:\Bristy\24-Dec-2014Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Bristy\24-Dec-2014Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.SalaryCalculatorUI.resources
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb

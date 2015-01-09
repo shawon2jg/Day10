@@ -1,0 +1,18 @@
+E:\S M SHAWON\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\bin\Debug\BankAccountTransactionApp.exe.config
+E:\S M SHAWON\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.csprojResolveAssemblyReference.cache
+E:\S M SHAWON\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.Form1.resources
+E:\S M SHAWON\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.Properties.Resources.resources
+E:\S M SHAWON\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.csproj.GenerateResource.Cache
+E:\S M SHAWON\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\bin\Debug\BankAccountTransactionApp.exe
+E:\S M SHAWON\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\bin\Debug\BankAccountTransactionApp.pdb
+E:\S M SHAWON\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.exe
+E:\S M SHAWON\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.pdb
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\bin\Debug\BankAccountTransactionApp.exe.config
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.exe
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.pdb
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\bin\Debug\BankAccountTransactionApp.exe
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\bin\Debug\BankAccountTransactionApp.pdb
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.csprojResolveAssemblyReference.cache
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.BankAccountTransactionUI.resources
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.Properties.Resources.resources
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\BankAccountTransactionApp\BankAccountTransactionApp\obj\Debug\BankAccountTransactionApp.csproj.GenerateResource.Cache

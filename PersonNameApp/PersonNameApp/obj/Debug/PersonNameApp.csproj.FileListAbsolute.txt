@@ -1,0 +1,15 @@
+E:\msd projects\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.exe.config
+E:\msd projects\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.exe
+E:\msd projects\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.pdb
+E:\msd projects\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.csprojResolveAssemblyReference.cache
+E:\msd projects\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.exe
+E:\msd projects\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.pdb
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.exe.config
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.exe
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.pdb
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.csprojResolveAssemblyReference.cache
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.exe
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.pdb
+C:\Users\s m shawon\Desktop\Day10\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.exe.config
+C:\Users\s m shawon\Desktop\Day10\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.exe
+C:\Users\s m shawon\Desktop\Day10\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.pdb
